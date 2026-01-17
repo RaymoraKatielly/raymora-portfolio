@@ -1,18 +1,16 @@
 :root{
-  /* Paleta terracota/rosa (delicada) */
-  --bg:#fff7f4;          /* fundo */
-  --panel:#ffffff;       /* painéis */
-  --card:#ffffff;        /* cards */
-  --text:#241b16;        /* texto principal */
-  --muted:#6e5d57;       /* texto secundário */
-  --line:rgba(36,27,22,.10);
+  --bg:#fff5f6;
+  --panel:#ffffff;
+  --text:#2a1c1a;
+  --muted:#7a5e5a;
+  --line:rgba(42,28,26,.10);
 
-  --brand:#c97b6b;       /* terracota */
-  --brand-2:#e7a39a;     /* rosa queimado */
-  --accent:#f3d7cf;      /* blush */
-  --shadow: 0 18px 50px rgba(36,27,22,.10);
+  --brand:#c26d63;     /* terracota mais suave */
+  --brand-2:#f0a6b3;   /* rosa feminino */
+  --accent:#fde1e6;    /* blush clarinho */
 
-  --radius:16px;
+  --shadow: 0 18px 55px rgba(42,28,26,.10);
+  --radius:18px;
   --max:1100px;
   --gap:18px;
 
