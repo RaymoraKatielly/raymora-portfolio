@@ -95,9 +95,9 @@ a:hover{opacity:.92}
 
 /* FOTO PEQUENA E REDONDA */
 .hero-photo{
-  width: 100px;
-  height: 100px;
-  border-radius: 80%;
+  width: 200px;
+  height: 200px;
+  border-radius: 95%;
   overflow: hidden;
   border: 3px solid var(--brand);
   box-shadow: 0 12px 35px rgba(0,0,0,.12);
