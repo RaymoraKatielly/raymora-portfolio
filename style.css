@@ -352,3 +352,7 @@ a:hover{opacity:.92}
   .nav a{padding:10px 12px; border-radius:12px}
   .nav a:hover{background: rgba(243,215,207,.55)}
 }
+
+html{
+  scroll-behavior: smooth;
+}
