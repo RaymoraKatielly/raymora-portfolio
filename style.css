@@ -91,7 +91,7 @@ a:hover{opacity:.92}
   max-width: 360px;
   margin-left: auto;
   padding: 14px;
-  border-radius: 28px;
+  border-radius:28px 28px 80px 28px;;
   background: linear-gradient(135deg, rgba(201,123,107,.22), rgba(231,163,154,.22));
   border: 1px solid rgba(201,123,107,.25);
   box-shadow: 0 18px 55px rgba(36,27,22,.12);
