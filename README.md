@@ -43,9 +43,7 @@ Trabalho com foco em soluções funcionais, organização visual e comunicação
 ## 🌐 Acesse o site
 
 👉 **Portfólio online:**  
-https://SEUUSUARIO.github.io/NOME-DO-REPOSITORIO
-
-*(substitua pelo link real do GitHub Pages)*
+https://raymorakatielly.github.io/raymora-portfolio
 
 ---
 
